@@ -1,0 +1,14 @@
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos do projeto que não devem ser publicados no repositório
+imagens/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários e de log
+*.log
+*.tmp
