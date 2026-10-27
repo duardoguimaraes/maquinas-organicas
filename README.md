@@ -2,7 +2,7 @@
 
 **Um encontro entre arte, tecnologia e desenvolvimento de software.**
 
-Portfólio digital do projeto artístico *Máquinas Orgânicas*, desenvolvido por `Eduardo Guimarães` como Trabalho de Conclusão de Curso (TCC) do curso de Artes Visuais do Instituto Federal de Pernambuco (IFPE - Campus Olinda) Utiliza a construção de uma página web como oportunidade de aproximar o antes e o agora: a produção artística, a formação em Artes Visuais e os estudos em Análise e Desenvolvimento de Sistemas (ADS), onde é aluno do 3o período.
+Portfólio digital do projeto artístico *Máquinas Orgânicas*, desenvolvido por `Eduardo Guimarães` como Trabalho de Conclusão de Curso (TCC) do curso de Artes Visuais do Instituto Federal de Pernambuco (IFPE - Campus Olinda). Utiliza a construção de uma página web como oportunidade de aproximar o antes e o agora: a produção artística, a formação em Artes Visuais e os estudos em Análise e Desenvolvimento de Sistemas (ADS), curso no qual está no 3º período.
 
 O projeto parte de uma inquietação artística sobre as relações entre humanidade, tecnologia e máquina, e se desdobra em uma investigação prática sobre como essas relações podem ser apresentadas, organizadas e documentadas por meio do desenvolvimento web. A poesia de um ciclo que se fecha.
 
