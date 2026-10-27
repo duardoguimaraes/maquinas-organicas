@@ -131,6 +131,14 @@ Entre as possibilidades futuras estão melhorias de responsividade e acessibilid
 
 Detalhes da estrutura e das decisões técnicas estão em [Arquitetura](docs/arquitetura.md).
 
+### Aprendizagem e uso de Inteligência Artificial
+
+A Inteligência Artificial Generativa (LLMs) é utilizada como ferramenta de apoio à implementação do projeto, incluindo a escrita e a revisão de código.
+
+Seu uso também faz parte do processo de aprendizagem, permitindo explorar suas possibilidades e limitações, compreender as soluções propostas e avaliar sua aplicação no desenvolvimento de software.
+
+O objetivo é aprender pela prática, utilizando a ferramenta de forma consciente e mantendo a análise crítica das decisões tomadas.
+
 ## 6. Requisitos e critérios de qualidade
 
 O site deve apresentar o projeto artístico, exibir registros fotográficos, organizar o conteúdo em seções e informar sobre o desenvolvimento do portfólio. A documentação distingue esses objetivos das qualidades que ainda precisam ser verificadas.
